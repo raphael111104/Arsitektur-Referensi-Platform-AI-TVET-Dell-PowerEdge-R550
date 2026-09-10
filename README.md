@@ -1,0 +1,1 @@
+# Arsitektur-Referensi-Platform-AI-TVET-Dell-PowerEdge-R550
